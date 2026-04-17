@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+    xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://travel-i.app/</loc>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
+    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <image:image>
+      <image:loc>https://travel-i.app/og-image.jpg</image:loc>
+      <image:caption>Travel~I AI-Powered Travel Assistant</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Upload page -->
+  <url>
+    <loc>https://travel-i.app/upload</loc>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
+    <priority>0.9</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <!-- Login -->
+  <url>
+    <loc>https://travel-i.app/auth/login</loc>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <!-- Sign Up -->
+  <url>
+    <loc>https://travel-i.app/auth/sign-up</loc>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <!-- Dashboard -->
+  <url>
+    <loc>https://travel-i.app/dashboard</loc>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <!-- Hotels search -->
+  <url>
+    <loc>https://travel-i.app/hotels</loc>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <!-- Directions / route planner -->
+  <url>
+    <loc>https://travel-i.app/directions</loc>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <!-- AI Chat -->
+  <url>
+    <loc>https://travel-i.app/ai-chat</loc>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <!-- Optional: About / Features page -->
+  <url>
+    <loc>https://travel-i.app/about</loc>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://travel-i.app/features</loc>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+</urlset>

@@ -1,0 +1,28 @@
+# Global settings for all crawlers
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /auth/callback
+
+# AI Crawlers and Answer Engines
+User-agent: GPTBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: CCBot
+Allow: /
+User-agent: anthropic-ai
+Allow: /
+User-agent: Claude-Web
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: YouBot
+Allow: /
+User-agent: BingBot
+Allow: /
+User-agent: Googlebot
+Allow: /
+
+# Sitemap location
+Sitemap: https://travel-i.app/sitemap.xml
